@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @UTOPI4T
+Nathan Rahmavanya Pradhana (INF-B)
+
 -
 <!---
 UTOPI4T/UTOPI4T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
